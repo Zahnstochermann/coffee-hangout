@@ -1,13 +1,15 @@
 .button{
-    padding: 15px;
-    background-color: #5B6AFF;
+    padding: 6px 12px;
+    background-color: #337ab7;
     color: white;
     display: inline-block;
-    border-radius: 10px;
+    border-radius: 4px;
+    cursor: pointer;
 }
 
 .button:hover{
-    background-color: #7684FF;
+    background-color: #286090;
+
 }
 
 .wrapper{
@@ -20,5 +22,6 @@
 
 body{
     text-align: center;
-    background-color: #f0f0f0;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    background-color: #FAFAFA;
 }
